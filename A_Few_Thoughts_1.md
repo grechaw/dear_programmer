@@ -24,7 +24,7 @@ FWIW I've never lost a job, contract or commercial relationship by saying the wo
 ## This code makes me feel stupid
 We've all been there ... either having to ramp into an unknown code base or revisit something one has written in the past. Some moments of confusion later and we feel 'stupid'.
 
-[Imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) aside, if code makes one feel inadequate it is probably a sign of problems.
+My own stupidity and [Imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) aside, if code makes one feel inadequate it is probably a sign of problems.
 
 Well written code, even to the casual non programmer, should convey their top level purpose.
 
