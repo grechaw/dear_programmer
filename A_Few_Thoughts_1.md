@@ -7,7 +7,7 @@ This is not an attempt to define an all encompassing set of rules (there are ple
 
 The intended reader is 'younger me' just entering the craft but I hope experts will see value in being reminded of consistent truths and chime in with their own advice/observations/corrections.
 
-##No > Yes
+## No > Yes
 
 Early on in our careers we tend to say 'yes' more then 'no' - eager to demonstrate our mastery of programming. Now I see the word 'yes' as something mounted on the wall in a glass box with a hammer saying 'break in case of emergency'.
 
@@ -19,7 +19,7 @@ If you are just starting as a junior programmer my advice is always to use the w
 
 FWIW I've never lost a job, contract or commercial relationship by saying the word 'no' but I have created software unfit for purpose whenever I've been too cavelier with using the word 'yes'.
 
-##This code makes me feel stupid
+## This code makes me feel stupid
 We've all been there ... either having to ramp into an unknown code base or revisit something one has written in the past. Some moments of confusion later and we feel 'stupid'.
 
 [Imposter syndrom](https://en.wikipedia.org/wiki/Impostor_syndrome) aside, if code that makes one feel inadequate is probably a sign of problems.
@@ -34,7 +34,7 @@ Ultimately reading one's code should make the reader feel smarter.
 Thats what good writers do when presenting complex topics and programmers should view their code as prose that communicates to humans to what it is doing.
 
 
-##Archicture by consequence is not architecture
+## Archicture by consequence is not architecture
 One of the benefits of distributed programming is that 'apparent work' can be achieved in parallel by groups of people. That is I can work on a code module and you can work on another code module and we can expect some convergence to work happily together - as a side effect of modern SCM, programming language modularity and common protocols between components.
 
 From plan view this means architecture and design of each individual component can proceed with little communication between each other eg. well defined interfaces between components should mean we can just focus on our own 'black box'.
@@ -57,7 +57,7 @@ As a young programmer one should fight for well defined interfaces between compo
 
 I agree that most of the above may sound like responsibilities of those more senior in the team - but if even a simple up to date [diagram](https://en.wikipedia.org/wiki/C4_model) of the project does not exist then it has to become your responsibility otherwise your part of the project will fail. Trust me others (including senior members) will thank you for it.
 
-##Let your code prose be more Hemingway, less Faulkner and name things like Dickens
+## Let your code prose be more Hemingway, less Faulkner and name things like Dickens
 
 At the individual level writing code should also be about communicating to humans eg. not just a series of instructions to a machine.
 
@@ -72,7 +72,7 @@ how the system should operate. Address the inability to refactor first before pr
 
 Over time codebases resemble archeological digs with each layer introducing different, inconsistent naming ... slavish consistency for consistency sake is not what I am advocating. Do not let names be written in stone, spend a little time on it often with the goal of names being clear, consistent and convey the right meaning.
 
-##Learn how to manage code, deploy code and work with http ... the REST shall follow
+## Learn how to manage code, deploy code and work with http ... the REST shall follow
 
 Because many programmers today tend to be specialists instead of generalists they miss 
 out learning some of the basic tools of the trade.
@@ -85,7 +85,7 @@ Simply put:
 
 Not understanding any of the above will be a serious handicap.  
 
-##don't just push the bits - learn some philosophy, ethics and psychology
+## Don't just push bits - learn some philosophy, ethics and psychology
 
 Clearly coding has a mathematical basis but humans use your code.
 
