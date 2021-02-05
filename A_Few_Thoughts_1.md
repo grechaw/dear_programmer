@@ -61,7 +61,7 @@ I agree that most of the above may sound like responsibilities of those more sen
 
 At the individual level writing code should also be about communicating to humans eg. not just a series of instructions to a machine.
 
-Having short concise statements, code blocks and functions is much better then creating ['god' objects](https://en.wikipedia.org/wiki/God_object) which attain a sort of inescapable gravity where all new work gets done in.
+Having short concise statements, code blocks and functions is much better then creating ['god' objects](https://en.wikipedia.org/wiki/God_object) which attain a sort of inescapable gravity where all new work must get done in.
 
 [SCAR](https://www.linkedin.com/pulse/architecture-clues-heuristics-part-i-scars-ruth-malan/) helps here as well as fearless refactoring, refactoring, did I mention you need to refactor ?
 
