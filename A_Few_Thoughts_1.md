@@ -1,4 +1,4 @@
-#A few thoughts (about programming)
+# A few thoughts (about programming)
 Sending a few thoughts about programming to my younger self.
  
 Most of the following is far from original eg. advice plucked from the flotsam and jetsam observed over the years of a yeoman's career in the trenches. Its composition here is my own personal opinion which others (more knowledgeable) may take umbrage with.
