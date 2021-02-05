@@ -78,7 +78,7 @@ how the system should operate. Address the inability to refactor first before pr
 
 Over time codebases resemble archeological digs with each layer introducing different, inconsistent naming ... slavish consistency for consistency sake is not what I am advocating. Do not let names be written in stone, spend a little time on it often with the goal of names being clear, consistent and convey the right meaning.
 
-## Learn how to manage code, deploy code and the REST shall follow
+## Learn how to manage and deploy code and the REST shall follow
 
 Because many programmers today tend to be specialists instead of generalists they miss 
 out learning some of the basic tools of the trade.
