@@ -42,7 +42,7 @@ From plan view this means architecture and design of each individual component c
 
 The lack of coordination between components means that we can get an overall **architecture of convenience** where testers doing end to end integration tests are often the first to discover/assert architectural problems well past the design phase.
 
-This late discovery of actual architecture can be the death knell of a project eg. so many decisions have already been made that its impossible to do a refactor of architecture.
+This late discovery of 'accidental architecture' can be the death knell of a project eg. so many decisions have already been made that its impossible to do a refactor of architecture.
 
 Existing approaches espousing ['minimal viable product'](https://en.wikipedia.org/wiki/Minimum_viable_product) help ... though what is most important is getting everyone working serially together as a preamble to working in a more distributed fashion. Having teams work closely together in the early phases of a project will help with creating an end to end integration proof of concept as early as possible. This project boostrap phase also allows various teams to discuss and agree on common 'songs'/'rituals' eg. conventions across process and components.
 
