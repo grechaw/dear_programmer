@@ -28,8 +28,9 @@ My own stupidity and [Imposter syndrome](https://en.wikipedia.org/wiki/Impostor_
 
 Well written code, even to the casual non programmer, should convey their top level purpose.
 
-A code base that makes you jump around and puzzle out what it does probably has problems. If its an unknown codebase try to find and use tools to help comprehend and qualify the code, at least to the point where you have a diagram understanding the roles and responsibilities of each part. Another way
-of understanding code is to read, run and write a few more tests.
+A code base that makes you jump around and puzzle out what it does probably has problems. If its an unknown codebase try to find and use tools to help comprehend and qualify the code, at least to the point where you have a diagram understanding the roles and responsibilities of each part. 
+
+Another way of understanding code is to read, run and write a few more tests.
 
 As a junior programmer more often then not you are going to be asked to dive into someone elses previous work - try to understand the context which the code was written first before making quick judgements. Conversely do not be afraid to present well reasoned arguments why it maybe incorrect, got it wrong or is a complete disaster (dont use those words though!).
 
