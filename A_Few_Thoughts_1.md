@@ -91,7 +91,7 @@ Not understanding any of the above will be a serious handicap. Being 'auto didat
 Clearly coding has a mathematical basis but humans use your code and you work with others in crafting code.
 
 One brutish way to put this - if you do not understand one of the most important
-components of the system (eg. human) you are going to fail.
+components of the system (eg. human) you are going to encounter difficulties.
 
 Learning how to program better is probably not going to help you understand humans better.
 
