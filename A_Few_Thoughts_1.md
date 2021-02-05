@@ -79,9 +79,9 @@ out learning some of the basic tools of the trade.
 
 Simply put:
  
-* Spend some time learning a source control system (ex. git or otherwise)
-* Spend some time learning how to deploy code
-* Spend some time learning network protocol (ex. HTTP and REST)
+* Spend some time learning a source control system (ex. [git](https://git-scm.com/book/en/v2) or otherwise)
+* Spend some time learning how to [deploy code](https://en.wikipedia.org/wiki/DevOps)
+* Spend some time learning network protocol (ex. [HTTP](https://www.manning.com/books/http2-in-action) and REST)
 
 Not understanding any of the above will be a serious handicap.  
 
@@ -92,7 +92,7 @@ Clearly coding has a mathematical basis but humans use your code and you work wi
 One brutish way to put this - if you do not understand one of the most important
 components of the system (eg. human) you are going to fail.
 
-Programming better is not going to help you understand humans better.
+Learning how to program better is probably not going to help you understand humans better.
 
 * Learn a little [philosphy](https://en.wikipedia.org/wiki/Outline_of_philosophy) 
 * Learn a little [ethics](https://en.wikipedia.org/wiki/Programming_ethics)
