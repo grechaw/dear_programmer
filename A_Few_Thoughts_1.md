@@ -52,7 +52,7 @@ At the code level there are several **A**rchitecture with a small '**a**' type c
 * Do we understand dependencies ?
 * Do we understand coupling between components/data/systems ?
 
-If there is any confusion with these then there will be problems.
+If there is are ambiguities or confusion with any of the above then there will be problems.
 
 As a young programmer one should fight for well defined interfaces between components, ask questions about how things work in all the 'black boxes' and ensure everyone has a single defined truth of the entire system operating ... that can take the form of a diagram (though like any artifact a diagram can get [stale](https://structurizr.com/help/code)).
 
