@@ -1,4 +1,6 @@
 # A few thoughts (about programming)
+__James Fuller, 05/02/2021__
+
 Sending a few short thoughts about programming to my younger programming self.
  
 Most of the following is far from original eg. advice plucked from the flotsam and jetsam observed over the years of a yeoman's career in the trenches. Its composition here is my own personal opinion which others (more knowledgeable) may take umbrage with.
