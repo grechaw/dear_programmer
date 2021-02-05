@@ -34,7 +34,7 @@ Another way of understanding code is to read, run and write a few more tests.
 
 As a junior programmer more often then not you are going to be asked to dive into someone elses previous work - try to understand the context which the code was written first before making quick judgements. Conversely do not be afraid to present well reasoned arguments why it maybe incorrect, got it wrong or is a complete disaster (dont use those words though!).
 
-Try to arrange and write your code so that a layperson will get a general sense of what is going on. Indicate in the code where things may get complex and try to marshal that complexity into the smallest logical space.
+Try to arrange and write your code so that a layperson (or [psychopath](https://blog.codinghorror.com/coding-for-violent-psychopaths/)) will get a general sense of what is going on. Indicate in the code where things may get complex and try to marshal that complexity into the smallest logical space.
 
 Ultimately reading one's code should make the reader feel smarter. 
 Thats what good writers do when presenting complex topics and programmers should view their code as prose that communicates to humans to what it is doing.
