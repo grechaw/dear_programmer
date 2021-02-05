@@ -99,4 +99,4 @@ Learning how to program better is probably not going to help you understand huma
 * Learn a little [ethics](https://en.wikipedia.org/wiki/Programming_ethics)
 * Learn a little [psychology](https://en.wikipedia.org/wiki/Psychology)
 
-You may find inspiration learning common truths exist in other fields. 
+I often find myself seeking inspiration from these fields - rifling through their treasure chests, in their high towers - bringing back nuggets of wisdom to be applied in programming. 
