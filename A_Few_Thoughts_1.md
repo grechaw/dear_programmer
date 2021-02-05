@@ -39,7 +39,7 @@ One of the benefits of modern distributed programming is that 'apparent work' ca
 
 From plan view this means architecture and design of each individual component can proceed with little communication between each other eg. well defined interfaces between components should mean we can just focus on our own 'black box'.
 
-The lack of coordination between components means that we can get an overall **architecture of convenience** where testers doing end to end integration tests are often the first to discover/assert architecural problems well past the design phase.
+The lack of coordination between components means that we can get an overall **architecture of convenience** where testers doing end to end integration tests are often the first to discover/assert architectural problems well past the design phase.
 
 This late discovery of actual architecture can be the death knell of a project eg. so many decisions have already been made that its impossible to do a refactor of architecture.
 
