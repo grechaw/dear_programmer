@@ -3,7 +3,7 @@ Sending a few short thoughts about programming to my younger programming self.
  
 Most of the following is far from original eg. advice plucked from the flotsam and jetsam observed over the years of a yeoman's career in the trenches. Its composition here is my own personal opinion which others (more knowledgeable) may take umbrage with.
 
-This is not an attempt to define an all encompassing set of rules (there are plenty of good ones already in existance). No high church hymns or rituals to preach -  just a few simple home truths or practical katas to inspire one's current practice.
+This is not an attempt to define an all encompassing set of rules (there are plenty of good ones already in existence). No high church hymns or rituals to preach -  just a few simple home truths or practical katas to inspire one's current practice.
 
 The intended reader is 'younger me' just entering the craft but I hope experts will see value in being reminded of consistent truths and chime in with their own advice/observations/corrections.
 
