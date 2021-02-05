@@ -26,7 +26,8 @@ We've all been there ... either having to ramp into an unknown code base or revi
 
 Well written code, even to the casual non programmer, should convey their top level purpose.
 
-A code base that makes you jump around and puzzle out what it does probably has problems.
+A code base that makes you jump around and puzzle out what it does probably has problems. If its an unknown codebase try to find and use tools to help comprehend and qualify the code, at least to the point where you have a diagram understanding the roles and responsibilities of each part. Another way
+of understanding code is to read, run and write a few more tests.
 
 Try to arrange and write your code so that a layperson will get a general sense of what is going on. Indicate in the code where things may get complex and try to marshal that complexity into the smallest logical space.
 
