@@ -96,4 +96,4 @@ Learning how to program better is probably not going to help you understand huma
 
 * Learn a little [philosphy](https://en.wikipedia.org/wiki/Outline_of_philosophy) 
 * Learn a little [ethics](https://en.wikipedia.org/wiki/Programming_ethics)
-* Learn a little psychology
+* Learn a little [psychology](https://en.wikipedia.org/wiki/Psychology)
