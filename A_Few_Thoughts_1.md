@@ -86,7 +86,9 @@ Simply put:
 * Spend some time learning how to [deploy code](https://en.wikipedia.org/wiki/DevOps)
 * Spend some time learning network protocol (ex. [HTTP](https://www.manning.com/books/http2-in-action) and REST)
 
-Not understanding any of the above will be a serious handicap. Being 'auto didatic by default' means trying to learn first before writing odd 'end runs' around gaps in your knowledge. Be quick to say if you don't know something (refer to aforementioned liberal use of the word **No**).
+Not understanding any of the above will be a serious handicap. Being 'auto didatic by default' means trying to learn first before writing odd 'end runs' around gaps in your knowledge. 
+
+Be quick to say if you don't know something (refer to aforementioned liberal use of the word **No**).
 
 ## Don't just push 'bits'
 
