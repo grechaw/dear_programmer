@@ -87,7 +87,7 @@ Not understanding any of the above will be a serious handicap.
 
 ## Don't just push bits - learn some philosophy, ethics and psychology
 
-Clearly coding has a mathematical basis but humans use your code.
+Clearly coding has a mathematical basis but humans use your code and you work with others in crafting code.
 
 One brutish way to put this - if you do not understand one of the most important
 components of the system (eg. human) you are going to fail.
