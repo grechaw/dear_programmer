@@ -63,7 +63,7 @@ If there are ambiguities or confusion with any of the above then there will be p
 
 As a young programmer one should fight for well defined interfaces between components, ask questions about how things work in all the 'black boxes' and ensure everyone has a single defined truth of the entire system operating ... that can take the form of a diagram (though like any artifact a diagram can get [stale](https://structurizr.com/help/code)).
 
-I agree that most of the above may sound like responsibilities of those more senior in the team - but if even a simple up to date [diagram](https://en.wikipedia.org/wiki/C4_model) of the project does not exist then it has to become your responsibility otherwise your part of the project will be more likely to fail. Trust me others (including senior members) will thank you for it.
+I agree that most of the above may sound like responsibilities of those more senior in the team - but if even a simple up to date [diagram](https://en.wikipedia.org/wiki/C4_model) of the project does not exist then it has to become your responsibility otherwise your part of the project will be more likely to fail. Trust me others (including senior members) will thank and remember you positively for it.
 
 ## Let your code prose be more Hemingway, less Faulkner and name things like Dickens
 
