@@ -35,7 +35,7 @@ Thats what good writers do when presenting complex topics and programmers should
 
 
 ## Archicture by consequence is not architecture
-One of the benefits of distributed programming is that 'apparent work' can be achieved in parallel by groups of people. That is I can work on a code module and you can work on another code module and we can expect some convergence to work happily together - as a side effect of modern SCM, programming language modularity and common protocols between components.
+One of the benefits of modern distributed programming is that 'apparent work' can be achieved in parallel by groups of people. That is I can work on a code module and you can work on another code module and we can expect some convergence to work happily together - as a side effect of modern SCM, programming language modularity and common protocols between components.
 
 From plan view this means architecture and design of each individual component can proceed with little communication between each other eg. well defined interfaces between components should mean we can just focus on our own 'black box'.
 
