@@ -93,7 +93,7 @@ Simply put:
 
 Not understanding any of the above will be a serious handicap. 
 
-Being 'auto didatic by default' means trying to learn first before writing odd programmatic 'end runs' around gaps in your knowledge. 
+Being 'autodidatic by default' means trying to learn first before writing odd programmatic 'end runs' around gaps in your knowledge. 
 
 Now that I've said 'learn by yourself' I should probably also mention never to underestimate the efficiency of learning from others more wiser eg. ask for help. Its a credit to the quality of people I have worked with that whenever I asked for help I always got it and more (and always kicked myself for not having asked sooner).
 
