@@ -109,4 +109,4 @@ One brutish way to put this - if you do not understand the most important compon
 * Learn a little [ethics](https://en.wikipedia.org/wiki/Programming_ethics)
 * Learn a little [psychology](https://en.wikipedia.org/wiki/Psychology)
 
-I often find myself seeking inspiration from [other fields](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/) - rifling through treasure chests in their high towers - bringing back nuggets of wisdom to be applied in programming. 
+I often find myself seeking inspiration from [other fields](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/) - rifling through treasure chests in their high towers bringing back nuggets of wisdom to be applied in programming. 
